@@ -12,7 +12,7 @@ console.log("=========================================");
 console.log("");
 
 //For Loop
-let myHash = "#"
+let myHash = "#";
 for (let counter = 0; counter < 7 ; counter++) {
   console.log(myHash);
   myHash = myHash + "#";

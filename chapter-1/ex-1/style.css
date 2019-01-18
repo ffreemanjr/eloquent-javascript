@@ -1,11 +1,14 @@
 * {
   margin: 0;
-  padding: 0;;
+  padding: 0;
+  box-sizing: border-box;
 }
 
-body,
-html {
-  box-sizing: border-box;
+html {  
+  font-size: 62.5%;
+}
+
+body{
   font-family: helvetica;
 }
 
@@ -23,12 +26,13 @@ h1 {
 .note {
   font-weight: bold;
   color: red;
-  padding-bottom: 1rem;
+  padding-bottom: 2rem;
 }
 
 p {
   margin-left: 1rem;
   line-height: 1.7rem;
+  font-size: 1.6rem;
 }
 
 .indented {
