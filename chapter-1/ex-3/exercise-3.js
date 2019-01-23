@@ -3,7 +3,7 @@ let grid = " ";
 let size  = 8;
 
 /* 
-The first "for loop" controls the line. That is everything inside the yellow braces. The second "for loop" controls the adding of the characters for each line. That is all the code between the blue braces.
+The first "for loop" controls the line. That is everything inside the first {yellow} braces. The second "for loop" controls the adding of the characters for each line. That is all the code between the second (blue) braces.
 */
 for (let outer = 0; outer < size; outer++) {
   for (let inner = 0; inner < size; inner ++) {
