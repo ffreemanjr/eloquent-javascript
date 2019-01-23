@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {  
+  font-size: 62.5%;
+}
+
+body{
+  font-family: helvetica;
+}
+
+h1 {
+  font-size: 3.6rem;
+  text-align:center;
+  margin-top: 4rem;
+  margin-bottom: 2.5rem;
+}
+
+.instruction {
+  margin-bottom: 1rem;
+}
+
+.note {
+  font-weight: bold;
+  color: red;
+  padding-bottom: 2rem;
+}
+
+p {
+  margin-left: 1rem;
+  line-height: 2.7rem;
+  font-size: 1.6rem;
+}
+
+.indented {
+  padding-left: 2rem;
+}
+
+.shifted {
+  padding-left: 3rem
+}
