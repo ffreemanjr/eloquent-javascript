@@ -20,4 +20,5 @@ for (let outer = 0; outer < size; outer++) {
   grid = grid + "\n";
 }
 
+// Prints the 8x8 grid.
 console.log(grid);
